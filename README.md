@@ -53,14 +53,23 @@ The click algorithm and its mapping were created with precise screen mapping to 
 
 ## Position Mapping Data Table
 
-| Menu Option    | Position (x, y) |
-| -------------- | --------------- |
-| Torch          | (100, 200)      |
-| Camera         | (200, 300)      |
-| Gallery        | (300, 400)      |
-| Music Player   | (400, 500)      |
-| Calendar       | (500, 600)      |
-| Back Button    | (600, 700)      |
+| Mapping Constants | Bottom | Top  | Right  | Left       |
+|-------------------|--------|------|--------|------------|
+| menu_back         | 228    | 307  | 197    | 121        |
+| menu_music        | 228    | 306  | 89     | 15         |
+| menu_calendar     | 121    | 199  | 198    | 122        |
+| menu_camera       | 121    | 199  | 89     | 19         |
+| menu_gallery      | 12     | 94   | 198    | 122        |
+| menu_torch        | 13     | 92   | 89     | 17         |
+| back_buttons      | 5      | 78   | 77     | 0          |
+| camera_shutters   | 122    | 202  | 102    | 30         |
+| gallery_right     | 181    | 258  | 486    | 408        |
+| gallery_left      | 59     | 137  | 484    | 413        |
+| delete_button     | 244    | 320  | 83     | 13         |
+| music_play_pause  | 128    | 192  | 335    | 265        |
+| music_right       | 210    | 279  | 335    | 269        |
+| music_left        | 44     | 107  | 332    | 265        |
+| home_button       | 119    | 203  | 280    | 360 |
 
 ## Development Timeline
 
