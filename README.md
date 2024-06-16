@@ -6,7 +6,7 @@ GestureXpress is an innovative Kotlin-based Android application that leverages m
 
 Watch the demo video of GestureXpress to see it in action:
 
-[![GestureXpress Demo](https://github.com/Lakshman-kumar-121/GestureXpress-KT/blob/main/Assets/Video.mp4)](https://github.com/Lakshman-kumar-121/GestureXpress-KT/blob/main/Assets/Video.mp4)
+[Video live](video)
 
 ## Permissions
 
@@ -89,6 +89,11 @@ The click algorithm and its mapping were created with precise screen mapping to 
 | music_right       | 210    | 279  | 335    | 269        |
 | music_left        | 44     | 107  | 332    | 265        |
 | home_button       | 119    | 203  | 280    | 360 |
+
+## Accuracy
+
+The accuracy of this algorithm is highly dependent on its ability to achieve successful recognition. 
+
 
 ## Development Timeline
 
