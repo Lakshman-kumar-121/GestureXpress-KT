@@ -2,6 +2,20 @@
 
 GestureXpress is an innovative Kotlin-based Android application that leverages machine learning for hand gesture recognition. With GestureXpress, users can perform various actions through predefined hand gestures and clicks, allowing for a seamless and intuitive user experience with system navigation. 
 
+## Video
+
+Watch the demo video of GestureXpress to see it in action:
+
+[![GestureXpress Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+## Permissions
+
+To use GestureXpress, please enable the following permissions:
+
+- **Storage**: To save and access captured images and music files.
+- **Camera**: To capture images and perform camera-related functions.
+
+  
 ## Features
 
 - **Hand Gesture Recognition**: Uses a machine learning model to recognize hand gestures.
@@ -14,22 +28,27 @@ GestureXpress is an innovative Kotlin-based Android application that leverages m
 - **Fragments and ViewModel**: Used for managing screens and data sharing between components.
 - **Debug Mode**: A switch to check the hand recognition system.
 - **Cool Animations**: Smooth system animation effects for navigation.
-- **App Download**: [Download GestureXpress](#)
+- **App Download**: [Download GestureXpress](https://github.com/Lakshman-kumar-121/GestureXpress-KT/raw/main/Assets/GestureXpress.apk)
+
+## Device Compatibility
+
+GestureXpress was mainly created and tested on the IQOO Z7 Pro 5G mobile. There may be slight variances in performance and screen mapping on different devices.
+
+## Future Improvements
+
+Future improvements will include:
+1. Different click events.
+2. Inbuilt permission requests.
+
 
 ## Screenshots
 
-![Main Menu](path_to_image_main_menu.png)
-![Camera Screen](path_to_image_camera.png)
-![Music Player Screen](path_to_image_music_player.png)
-![Gallery Screen](path_to_image_gallery.png)
-![Calendar Screen](path_to_image_calendar.png)
+<img src="https://github.com/Lakshman-kumar-121/GestureXpress-KT/blob/main/Assets/menu%20view.jpg" alt="Main Menu" width="300"/>
+<img src="https://github.com/Lakshman-kumar-121/GestureXpress-KT/blob/main/Assets/home%20view.jpg" alt="Home Screen" width="300"/>
+<img src="https://github.com/Lakshman-kumar-121/GestureXpress-KT/blob/main/Assets/camera%20view.jpg" alt="Camera Screen" width="300"/>
+<img src="https://github.com/Lakshman-kumar-121/GestureXpress-KT/blob/main/Assets/music%20view.jpg" alt="Music Player Screen" width="300"/>
 
-## Permissions
 
-To use GestureXpress, please enable the following permissions:
-
-- **Storage**: To save and access captured images and music files.
-- **Camera**: To capture images and perform camera-related functions.
 
 ## Usage
 
@@ -73,7 +92,7 @@ The click algorithm and its mapping were created with precise screen mapping to 
 
 ## Development Timeline
 
-GestureXpress was developed as a final year project from January 1, 2023, to April 1, 2024. The project involved extensive research, design, development, and testing phases to ensure a high-quality user experience.
+GestureXpress was developed as a final year project from January 1, 2023, to (continuing..) . The project involved extensive research, design, development, and testing phases to ensure a high-quality user experience.
 
 ## Debug Mode
 
@@ -83,30 +102,24 @@ Enable debug mode to check the hand recognition system and ensure gestures are a
 
 GestureXpress features smooth and visually appealing system animations for an enhanced navigation experience.
 
-## Device Compatibility
-
-GestureXpress was mainly created and tested on the IQOO Z7 Pro 5G mobile. While the app is designed to work across various devices, there may be slight variances in performance and screen mapping on different devices.
-
 ## Reference
 
-- [MediaPipe KT by Google](https://github.com/google/mediapipe)
+- [MediaPipe KT by Google](https://ai.google.dev/edge/mediapipe/solutions/vision/gesture_recognizer/android)
 
 ## Contact
 
-If you want to access the source code or discuss business ideas, please contact us at [abc@outlook.com](mailto:abc@outlook.com).
+If you want to access the source code or discuss business ideas, please contact us at [lakshmank001@outlook.com](mailto:lakshmank001@outlook.com).
 
 ## Author
 
-GestureXpress was built on the MediaPipe KT project by Google. The click algorithm and its mapping were developed by [Your Name](https://www.linkedin.com/in/your-profile).
+GestureXpress was built on the MediaPipe KT project by Google. The click algorithm and its mapping were developed by [Lakshman k](https://www.linkedin.com/in/lakshman-k-57aa25228/).
 
 ## Download
 
-[Download GestureXpress](#)
+[Download GestureXpress](https://github.com/Lakshman-kumar-121/GestureXpress-KT/raw/main/Assets/GestureXpress.apk)
 
 ---
 
 Feel free to reach out for any queries or contributions!
 
 ---
-
-**Note**: Replace placeholders like `path_to_image_main_menu.png` and `https://www.linkedin.com/in/your-profile` with actual paths and links.
