@@ -6,7 +6,7 @@ GestureXpress is an innovative Kotlin-based Android application that leverages m
 
 Watch the demo video of GestureXpress to see it in action:
 
-[![GestureXpress Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![GestureXpress Demo](https://github.com/Lakshman-kumar-121/GestureXpress-KT/blob/main/Assets/Video.mp4)](https://github.com/Lakshman-kumar-121/GestureXpress-KT/blob/main/Assets/Video.mp4)
 
 ## Permissions
 
